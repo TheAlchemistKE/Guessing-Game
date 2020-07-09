@@ -13,7 +13,7 @@ if name
 end
 
 MAX_GUESSES = 3
-random = rand(0, 11)
+random = rand(1..10)
 
 1.upto(MAX_GUESSES) do |guesses|
   print "Guess #{guesses}: "

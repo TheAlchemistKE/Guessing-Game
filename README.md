@@ -14,7 +14,7 @@ This game is built in Ruby and is built as a way for me to practice my coding sk
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://repl.it/@KelynPaul/GleamingBigDecimal)
 
 
 ## Getting Started
